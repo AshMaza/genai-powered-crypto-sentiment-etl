@@ -1,0 +1,5 @@
+azure-eventhub==5.15.1
+openai==2.18.0
+pydantic==2.12.5
+python-dotenv==1.2.1
+Requests==2.32.5
